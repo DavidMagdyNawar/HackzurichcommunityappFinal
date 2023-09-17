@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "53047548003",
+    "firebase_url": "https://hackzurich23-8218-default-rtdb.firebaseio.com",
+    "project_id": "hackzurich23-8218",
+    "storage_bucket": "hackzurich23-8218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53047548003:android:fbd132a0be05f0c6244056",
+        "android_client_info": {
+          "package_name": "com.davidriad.hackzurichcommunityapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhiw7IbqDc8XKpY7XWez4Kw9TiMBqnChY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
